@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @michaelcharleswood
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on Citrix and VMware related products
+- 👋 Hi, I’m @michaelcharleswood.
+- 👀 I’m interested in all things related to application delivery and virtualization.
+- 💞️ I’m looking to collaborate on Citrix and VMware related products.
 - 📫 How to reach me here: https://virtualizebrief.com
 
 Father of five. Husband of one. Citrix Certified Professional in Virtualization (CCP-V) and a Microsoft Certified Systems Engineer (MCSE) working in the IT arena to make life better for people.
