@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelcharleswood.
+- 👋 Hi, I’m Michael Wood.
 - 👀 I’m interested in all things related to application delivery and virtualization.
 - 💞️ I’m looking to collaborate on Citrix and VMware related products.
 - 📫 How to reach me here: https://virtualizebrief.com
